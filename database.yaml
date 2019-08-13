@@ -1,0 +1,27 @@
+!todo_list
+tasks:
+- !task
+  completed: false
+  date: 2019-08-13
+  description: Description
+  title: One
+- !task
+  completed: false
+  date: 2019-08-13
+  description: Description
+  title: Two
+- !task
+  completed: false
+  date: 2019-08-13
+  description: Description
+  title: Three
+- !task
+  completed: true
+  date: 2019-08-13
+  description: Description
+  title: Four
+- !task
+  completed: false
+  date: 2019-08-13
+  description: This is a description
+  title: Five
